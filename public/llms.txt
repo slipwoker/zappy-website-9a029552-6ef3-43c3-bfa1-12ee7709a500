@@ -1,35 +1,47 @@
-# Business — Generative Engine Optimization Map
+# כרטיס צהוב-שחור — Generative Engine Optimization Map
+
+> בנה אתר לאוהדי ביתר ירושלים בלבד שבוא הם יכולים למכור או לקנות כרטיסים בין אוהדי ביתר שונים
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://kartis-tzahov-shakhor.zappy5.app
 בנה אתר לאוהדי ביתר ירושלים בלבד שבוא הם יכולים למכור או לקנות כרטיסים בין אוהדי ביתר שונים
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://kartis-tzahov-shakhor.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://kartis-tzahov-shakhor.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://kartis-tzahov-shakhor.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About כרטיס צהוב-שחור
+בנה אתר לאוהדי ביתר ירושלים בלבד שבוא הם יכולים למכור או לקנות כרטיסים בין אוהדי ביתר שונים
+
+## Target Audience
+- חובבי ספורט
+- אוהדי כדורגל
+- משתתפי אירועי ספורט
+
+## Industry
+General
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://kartis-tzahov-shakhor.zappy5.app/sitemap.xml
+- **Robots.txt**: https://kartis-tzahov-shakhor.zappy5.app/robots.txt
